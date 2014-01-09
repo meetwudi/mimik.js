@@ -1,0 +1,39 @@
+{
+  "name": "mimik",
+  "preferGlobal": false,
+  "version": "0.1.0",
+  "author": "John Wu <webmaster@leapoahead.com>",
+  "description": "mimic all fun stuffs in javascript",
+  "contributors": [ 
+    {
+      "name": "John Wu",
+      "email": "webmaster@leapoahead.com"
+    }
+  ],
+  "main": "./bin/mimik.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjwudi/mimik.git"
+  },
+  "keywords": [
+    "mimik",
+    "javascript",
+    "test case writing",
+    "random",
+    "generator"
+  ],
+  "dependencies" : {
+    "underscore"        :   "*"
+  },
+  "devDependencies": {
+    "mocha"             :   "*", 
+    "should"            :   "*"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  }
+}
