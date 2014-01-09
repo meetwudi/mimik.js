@@ -1,7 +1,7 @@
 {
   "name": "mimik",
   "preferGlobal": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "John Wu <webmaster@leapoahead.com>",
   "description": "mimic all fun stuffs in javascript",
   "contributors": [ 
