@@ -44,3 +44,6 @@ Mimik is not smart enough now. If you are interested to make it more clever and 
 
 #Is 'mimik' a typo?
 No, it's just because naming conflict on [npmjs.org](http://npmjs.org).
+
+##Special Thansk to SatanWoo
+SatanWoo.github.io
