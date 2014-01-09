@@ -11,14 +11,14 @@ $ [sudo] npm install mimik
 #usage
 ##mimic a single identity
 ```
-var mimic = require('mimic'); // this line will not be shown in following code snippets
+var mimik = require('mimik'); // this line will not be shown in following code snippets
 var template = 1;
-var randomNumber = mimic(template); // randomNumber <- 100 (or other numbers)
+var randomNumber = mimik(template); // randomNumber <- 100 (or other numbers)
 ```
 You can also specify some options (see comments in lib/*.js). For example, you can specify the min and max value of number.
 ```
 var template = 1;
-var randomNumber = mimic(template, {min: 19, max:27}); // randomNumber <- 20
+var randomNumber = mimik(template, {min: 19, max:27}); // randomNumber <- 20
 ```
 ##mimic an array of identities
 ```
