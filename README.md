@@ -31,6 +31,11 @@ When it fails to mimic, you got a `null`, which is so sad.
 Mimik can now mimic: 
 - number(s)
 
+#testing
+```
+$ npm test
+```
+
 #contributing
 It's just like a playground. If you have time, just enjoy contributing to mimik, or, have a cup of coffee. ;)
 Mimik is not smart enough now. If you are interested to make it more clever and powerful, [let me know](mailto://webmaster@leapoahead.com)!
