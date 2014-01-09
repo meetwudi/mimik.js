@@ -26,7 +26,7 @@ var template = [1, 2, 7, "a string", true];
 var randomStuffs = [8, 7, 9, "AzEfgx", false]; // all random stuffs
 ```
 ##on failure
-When it fails to mimic, you got a `null`, which is so sad.
+When it fails to mimic, you get a `null`, which is so sad.
 ##currently supported templates
 Mimik can now mimic: 
 - number(s)
