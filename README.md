@@ -30,6 +30,8 @@ When it fails to mimic, you got a `null`, which is so sad.
 ##currently supported templates
 Mimik can now mimic: 
 - number(s)
+- boolean(s)
+- array of types mentioned above (can be mixed)
 
 #testing
 ```
