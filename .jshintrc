@@ -58,7 +58,7 @@
     "passfail"      : false,
     "white"         : false,
  
-    "maxerr"        : 100,
+    "maxerr"        : 50,
     "predef"        : [
     ],
     "indent"        : 4,
