@@ -9,7 +9,7 @@ describe('Number generator', function() {
         
         result = mimik(9);
         result.should.be.an.Number;
-        result.should.be.within(0, 100);
+        result.should.be.within(0, 1000);
         
         done();
     });
