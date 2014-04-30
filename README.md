@@ -1,4 +1,4 @@
-#mimik.js [![Build Status](https://travis-ci.org/tjwudi/mimik.js.png?branch=master)](https://travis-ci.org/tjwudi/mimik.js)
+#mimik.js (deprecated) [![Build Status](https://travis-ci.org/tjwudi/mimik.js.png?branch=master)](https://travis-ci.org/tjwudi/mimik.js)
 mimik.js mimics all kinds of fun stuffs (string, number, object, etc.). It's fun, it can be helpful when you are creating test cases and want to generate random stuffs based on a template rather than some rules. Pure rules just look unnatural.  
 Have fun!
 
